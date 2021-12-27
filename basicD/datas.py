@@ -1442,7 +1442,7 @@ def A27():
     return A27
 
 def A28():
-    iimg_url="https://pbs.twimg.com/profile_images/1440178135228555273/fehwM_8U_400x400.png"
+    img_url="https://pbs.twimg.com/profile_images/1440178135228555273/fehwM_8U_400x400.png"
     user_name="さとけ｜リメイクタイムレスマーケティング"
     user_id="@Satoke_brand"
     TwitterURL="https://twitter.com/Satoke_brand?s=20"
